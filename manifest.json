@@ -1,14 +1,14 @@
 {
   "name": "WorkLog — Облік часу",
   "short_name": "WorkLog",
-  "description": "Особистий облік робочих годин, графіків змін та таймеру",
+  "description": "Особистий облік робочих годин та графіку змін",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#1A0F2E",
-  "theme_color": "#1A0F2E",
-  "categories": ["productivity", "utilities"],
+  "background_color": "#F8F4ED",
+  "theme_color": "#F8F4ED",
   "lang": "uk-UA",
+  "categories": ["productivity", "utilities"],
   "icons": [
     {
       "src": "icon-192.png",
@@ -35,14 +35,14 @@
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Головний екран з таймером зміни"
+      "label": "Головний екран з таймером"
     },
     {
       "src": "screenshot2.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Графік змін на тиждень"
+      "label": "Графік робочих змін"
     }
   ]
 }
